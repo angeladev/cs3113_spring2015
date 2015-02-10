@@ -1,0 +1,2 @@
+for whatever reason, my load image function isn't cooperating with me.. i just copy/pasted the LoadTexture function from the powerpoint so i'm not sure what's going on there. i think the code itself is sound though!
+sorry :(
